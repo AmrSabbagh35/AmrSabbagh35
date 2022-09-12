@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p><img align="right" src="https://github.com/AmrSabbagh35/animation_500_kxa883sd.gif" alt="AmrSabbagh" /></p>
+<p><img align="right" src="https://github.com/AmrSabbagh35/AmrSabbagh35/animation_500_kxa883sd.gif" alt="AmrSabbagh" /></p>
 
 Here are some ideas to get you started:
 
