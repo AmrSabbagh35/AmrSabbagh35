@@ -1,6 +1,6 @@
-### Hi there 👋
+### Amr is here 👋
 
-<p><img align="right" src="https://github.com/AmrSabbagh35/AmrSabbagh35/animation_500_kxa883sd.gif" alt="AmrSabbagh" /></p>
+<p><img align="right" src="https://github.com/AmrSabbagh35/AmrSabbagh35/blob/main/animation_500_kxa883sd.gif" alt="amr-sab" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
