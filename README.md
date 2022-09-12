@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**AmrSabbagh35/AmrSabbagh35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><img align="right" src="https://github.com/AmrSabbagh35/animation_500_kxa883sd.gif" alt="AmrSabbagh" /></p>
 
 Here are some ideas to get you started:
 
