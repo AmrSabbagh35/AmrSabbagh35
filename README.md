@@ -1,4 +1,6 @@
-## Hey there! 👋
+## Amr is here 👋
+
+<p><img align="right" src="https://github.com/AmrSabbagh35/AmrSabbagh35/blob/main/animation_500_kxa883sd.gif" alt="amr-sab" /></p>
 
 I'm Amr, a software developer passionate about creating awesome applications. Welcome to my GitHub profile!
 
