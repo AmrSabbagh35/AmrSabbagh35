@@ -2,7 +2,6 @@
 <p><img align="right" src="https://github.com/AmrSabbagh35/AmrSabbagh35/blob/main/animation_500_kxa883sd.gif?raw=true" alt="amr-sab" /></p>
 
 ### Software Engineer — I own the problem, not just the code.
-> أبني منتجات تشتغل، مش مجرّد كود.
 
 I build production web and mobile systems end to end — from the architecture decision
 down to the last RTL pixel. Based in Damascus 🇸🇾, working across the full stack
