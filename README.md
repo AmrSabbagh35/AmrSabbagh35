@@ -4,9 +4,7 @@
 ### Software Engineer — I own the problem, not just the code.
 
 I build production web and mobile systems end to end — from the architecture decision
-down to the last RTL pixel. Based in Damascus 🇸🇾, working across the full stack
-(Flutter, NestJS/Node, Next.js, Angular), usually on products that have to work in
-two languages and survive real users.
+down to the last RTL pixel :) 
 
 ![Amr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmrSabbagh35&show_icons=true&theme=dark)
 
